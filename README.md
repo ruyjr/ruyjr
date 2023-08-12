@@ -3,9 +3,9 @@ My name is Ruy Barbosa da Costa Júnior, I'm a programmer from Brazil.
 
 I'm passionate about creating awesome websites and helping clients achieve their online goals.
 
-🔭 I’m currently working on: Improving my front-end skills and creating beautiful websites with WordPress.
+🔭 I’m currently working on: Improving my Fullstack skills and creating beautiful websites.
 
-🌱 I’m currently learning: React and other front-end technologies.
+🌱 I’m currently learning: Javascript and other front-end technologies.
 
 👯 I’m looking to collaborate on: Open-source projects and other web development initiatives.
 
